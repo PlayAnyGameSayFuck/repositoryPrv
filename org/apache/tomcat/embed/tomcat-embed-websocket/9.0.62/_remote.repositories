@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 10 14:09:51 CST 2022
+tomcat-embed-websocket-9.0.62-sources.jar>alimaven=
+tomcat-embed-websocket-9.0.62.jar>alimaven=
+tomcat-embed-websocket-9.0.62.pom>alimaven=
